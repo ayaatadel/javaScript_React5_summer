@@ -1,0 +1,23 @@
+var arr1=[1,2,3]
+var arr2=[5,6,7]
+var arr3;
+ arr3=arr1.push(...arr2)    // 6
+ arr3=arr1.push(arr2)    // 4
+
+document.writeln(arr3)
+ what is 6 and 4  in output
+
+
+ /*******  different => arrName.splice() ,arrName.slice()
+ ///        using code  
+
+
+
+/// methods in string
+// padstart , padend
+//split
+
+
+
+///////////////////
+arr=[2,6,8,8,2,5,1,2]
